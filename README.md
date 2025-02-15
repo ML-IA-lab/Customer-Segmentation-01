@@ -14,3 +14,11 @@ Customer Segmentation (Segmentación de Clientes) busca agrupar a los clientes s
 -- Abre un Pull Request (PR).
 -- Se revisa y fusiona a main.
 -- Se despliega automáticamente.
+
+
+# Structure Project
+customer_segmentation/
+│── data/               # Aquí guardas el dataset CSV
+│── src/                # Código Python (si lo modularizas)
+│── reports/            # Gráficos y análisis de los clusters
+│── README.md           # Explicación del proyecto
